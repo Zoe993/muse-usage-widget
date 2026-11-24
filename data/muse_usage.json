@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-20T09:48:34+08:00",
+  "updated_at": "2026-11-24T20:18:30+08:00",
   "plan": "Free",
-  "percent_used": 84,
-  "resets_at": "2026-11-24T13:12:00+08:00",
+  "percent_used": 0,
+  "resets_at": "2026-12-01T20:00:00+08:00",
   "additional_tokens": {
     "percent_used": 0,
     "left_label": "30B tokens left"
